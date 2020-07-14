@@ -1,0 +1,98 @@
+.margin-b-30 span {
+    font-size: 24px;
+    margin-bottom: 50px;
+    color: #17bed2;
+}
+/*------------------------------------------------------------------
+    [About]
+------------------------------------------------------------------*/
+.content-lg h2 {
+    margin-top: -5px;
+}
+
+.margin-b-30 h2 {
+    text-align: center;
+}
+.margin-b-30 p {
+    text-align: justify;
+}
+/*------------------------------------------------------------------
+    [My Skill]
+------------------------------------------------------------------*/
+
+.col-sm-7 h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*------------------------------------------------------------------
+    [Experience]
+------------------------------------------------------------------*/
+.service-info h2 {
+    text-align: center;
+}
+.service-info h3 {
+    text-align: center;
+}.service-info p {
+    text-align: justify;
+}
+.service-info img {
+    margin: 10px auto;
+}
+
+/*------------------------------------------------------------------
+    [Education]
+------------------------------------------------------------------*/
+.edu {
+    padding-top: 50px;
+}
+
+.edu h2 {
+    text-align: center;
+}
+.edu img {
+    margin: 5px auto;
+}
+.edu h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+.edu p {
+    text-align: center;
+}
+#education h2  {
+    text-align: center;
+}
+#education h3 {
+    text-align: center;
+}
+#education p {
+    text-align: center;
+}
+#education img {
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+.training {
+    text-align: center;
+}
+.sm-margin-b-50 h4 {
+    text-align: center;
+}
+.sm-margin-b-50 p {
+    text-align: center;
+}
+/*------------------------------------------------------------------
+    [Contact]
+------------------------------------------------------------------*/
+.md-margin-b-30 h4 {
+    text-align: center;
+}
+.col-xs-6 {
+    text-align: center;
+}
+/*------------------------------------------------------------------
+    [Contact]
+------------------------------------------------------------------*/
+.footer {
+    background-color:#000;
+}
